@@ -1,0 +1,14 @@
+{
+  "name": "elements-co",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jacob-",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

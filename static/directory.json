@@ -1,0 +1,50 @@
+{
+    "iron-ore":{
+        "price":12,
+        "description":"Iron ore is a mineral block found underground. It is the most common mineral that can be used to make tools and armor.",
+        "img":"https://c-6rtwjumjzx7877x24i6z0u8q9bufd8px2ehqtzikwtsyx2esjy.g00.gamepedia.com/g00/3_c-6rnsjhwfky.lfrjujinf.htr_/c-6RTWJUMJZX77x24myyux78x3ax2fx2fi6z0u8q9bufd8p.hqtzikwtsy.sjyx2frnsjhwfky_lfrjujinfx2f3x2f32x2fNwts_Twj.uslx3fajwx78ntsx3d03175i5j68jh7f9j98i04h9ijj7ffgh7x26n65h.rfwpx3dnrflj_$/$/$/$/$",
+        "category":"ores"
+    },
+    "gold-ore":{
+        "price":48,
+        "description":"Gold ore is one of the rarest types of mineral blocks found underground.",
+        "img":"https://c-6rtwjumjzx7877x24i6z0u8q9bufd8px2ehqtzikwtsyx2esjy.g00.gamepedia.com/g00/3_c-6rnsjhwfky.lfrjujinf.htr_/c-6RTWJUMJZX77x24myyux78x3ax2fx2fi6z0u8q9bufd8p.hqtzikwtsy.sjyx2frnsjhwfky_lfrjujinfx2fkx2fk2x2fLtqi_Twj.uslx3fajwx78ntsx3df8269j1f6h27fkk25k415gigg3f71gi3x26n65h.rfwpx3dnrflj_$/$/$/$/$",
+        "category":"ores"
+    },
+    "redstone-ore":{
+        "price":22,
+        "description":"Redstone ore is the ore block from which redstone is obtained.",
+        "img":"https://c-6rtwjumjzx7877x24i6z0u8q9bufd8px2ehqtzikwtsyx2esjy.g00.gamepedia.com/g00/3_c-6rnsjhwfky.lfrjujinf.htr_/c-6RTWJUMJZX77x24myyux78x3ax2fx2fi6z0u8q9bufd8p.hqtzikwtsy.sjyx2frnsjhwfky_lfrjujinfx2f0x2f01x2fWjix78ytsj_Twj.uslx3fajwx78ntsx3d0hh430hjg10i00505h951hi8459k1g30x26n65h.rfwpx3dnrflj_$/$/$/$/$",
+        "category":"ores"
+    },
+    "lapis-ore":{
+        "price":18,
+        "description":"Lapis lazuli ore is the ore block from which lapis lazuli is obtained.",
+        "img":"https://c-6rtwjumjzx7877x24i6z0u8q9bufd8px2ehqtzikwtsyx2esjy.g00.gamepedia.com/g00/3_c-6rnsjhwfky.lfrjujinf.htr_/c-6RTWJUMJZX77x24myyux78x3ax2fx2fi6z0u8q9bufd8p.hqtzikwtsy.sjyx2frnsjhwfky_lfrjujinfx2fhx2fh8x2fQfunx78_Qfezqn_Twj.uslx3fajwx78ntsx3d07h117ij898377f5032013fgg1hg75i8x26n65h.rfwpx3dnrflj_$/$/$/$/$",
+        "category":"ores"
+    },
+    "iron-ingot":{
+        "price":24,
+        "description":"Iron ingots are versatile metal crafting ingredients.",
+        "img":"https://c-6rtwjumjzx7877x24i6z0u8q9bufd8px2ehqtzikwtsyx2esjy.g00.gamepedia.com/g00/3_c-6rnsjhwfky.lfrjujinf.htr_/c-6RTWJUMJZX77x24myyux78x3ax2fx2fi6z0u8q9bufd8p.hqtzikwtsy.sjyx2frnsjhwfky_lfrjujinfx2f5x2f5fx2fNwts_Nslty.uslx3fajwx78ntsx3d73933578g6khgj7ij9k67h287f87jf1kx26n65h.rfwpx3dnrflj_$/$/$/$/$",
+        "category":"ingots"
+    },
+    "gold-ingot":{
+        "price":60,
+        "description":"Gold ingots are a metal that is used to craft the second tier of armor, and the first of tools.",
+        "img":"https://c-6rtwjumjzx7877x24i6z0u8q9bufd8px2ehqtzikwtsyx2esjy.g00.gamepedia.com/g00/3_c-6rnsjhwfky.lfrjujinf.htr_/c-6RTWJUMJZX77x24myyux78x3ax2fx2fi6z0u8q9bufd8p.hqtzikwtsy.sjyx2frnsjhwfky_lfrjujinfx2f7x2f77x2fLtqi_Nslty.uslx3fajwx78ntsx3d8299j559ig828h75h681k5i344g3ij4ix26n65h.rfwpx3dnrflj_$/$/$/$/$",
+        "category":"ingots"
+    },
+    "diamond-gem":{
+        "price":600,
+        "description":"Diamonds are an uncommon material. They are mainly used to craft the highest tier of tools and armor, and the enchantment table.",
+        "img":"https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/e/ea/Diamond.png?version=c9b0ffa6a1a195a7585131569134bd54",
+        "category":"gems"
+    },
+    "emerald-gem":{
+        "price":260,
+        "description":"Emeralds are an uncommon material, and are the currency used in villager trading.",
+        "img":"https://c-6rtwjumjzx7877x24i6z0u8q9bufd8px2ehqtzikwtsyx2esjy.g00.gamepedia.com/g00/3_c-6rnsjhwfky.lfrjujinf.htr_/c-6RTWJUMJZX77x24myyux78x3ax2fx2fi6z0u8q9bufd8p.hqtzikwtsy.sjyx2frnsjhwfky_lfrjujinfx2f1x2f1fx2fJrjwfqi.uslx3fajwx78ntsx3dj550gg3283g838588k265h6286h2357fx26n65h.rfwpx3dnrflj_$/$/$/$/$",
+        "category":"gems"
+    }
+}
